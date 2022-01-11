@@ -1,2 +1,2 @@
 # odin-recipes
-First Odin assignment
+First Odin assignment, create recepies page using html.
